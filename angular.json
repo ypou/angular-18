@@ -95,6 +95,9 @@
             ],
             "scripts": []
           }
+        },
+        "e2e": {
+          "builder": "playwright-ng-schematics:playwright"
         }
       }
     }
